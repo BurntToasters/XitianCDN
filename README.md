@@ -1,0 +1,2 @@
+# XitianCDN
+Assets for Xitian
